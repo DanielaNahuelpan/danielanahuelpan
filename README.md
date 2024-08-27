@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, Soy Daniela Nahuelpan</h1>
-<h3 align="center">Soy aprendiz de programación, cursé el bootcamp "Desarrollo Ruby on Rails para emprendimientos de tipo startup". Actualmente curso otro bootcamp de front-end. 
+<h3 align="center">Soy aprendiz de programación, cursé el bootcamp "Desarrollo Ruby on Rails para emprendimientos de tipo startup". Actualmente curso bootcamp de front-end "Desarrollo de aplicaciones front-end trainee". 
   Mi entusiasmo por aprender es incesante, y estoy comprometida con la idea de especializarme en programación para contribuir al sector de Tecnologías de la Información en Chile. Como mujer dedicada al mundo de la tecnología, estoy decidida a seguir adquiriendo conocimientos y avanzar constantemente hacia nuevos logros :)</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Programación en ruby on rails**
+- 🌱 Actualmente estoy aprendiendo **Desarrollo de aplicaciones front-end trainee**
 
 - 📫 How to reach me **daniela.paz.n.s@gmail.com**
 
